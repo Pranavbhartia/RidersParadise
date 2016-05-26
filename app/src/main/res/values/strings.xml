@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rider\'s Paradise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="one">one</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="spark1">Changing your bike\'s spark plugs isn\'t a job that usually needs doing regularly; consult the owner\'s manual for how often in should be done.</string>
+    <string name="spark2">Check your workshop manual before starting, as changing the spark plugs on some bikes takes a matter of minutes, while others can take a novice several hours. Got a V4 Honda? Ring your local dealer to get the low-down on how it\'s done, as it will often involve draining the cooling system.</string>
+    <string name="spark3">Make sure you have the correct plugs for your bike; the code number on each one will differ from manufacturer to manufacturer. Check the owner\'s manual for the correct gap; you\'ll need feeler gauges to set it correctly.</string>
+    <string name="spark_desc">Spark Plug</string>
+
+</resources>
