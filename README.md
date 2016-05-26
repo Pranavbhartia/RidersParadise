@@ -15,11 +15,11 @@ This app allows him to do it all in a few clicks.
 3. Build the project to compile and run.
 
 ## Screenshots
-Scrollable Tabbed view for the 5 things
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/brakes.png)
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/chain.png)
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/oil.png)
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/pressure.png)
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/sparkPlug.png)
-Scoll through the view to see more info
-![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/scroll.png)
+# Scrollable Tabbed view for the 5 things
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/brakes.jpeg)
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/chain.jpeg)
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/oil.jpeg)
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/pressure.jpeg)
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/sparkPlug.jpeg)
+# Scoll through the view to see more info
+![alt tag](https://github.com/Pranavbhartia/RidersParadise/blob/master/screenshots/scroll.jpeg)
