@@ -5,9 +5,29 @@
     <string name="one">one</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="spark1">Changing your bike\'s spark plugs isn\'t a job that usually needs doing regularly; consult the owner\'s manual for how often in should be done.</string>
+    <string name="spark1">Changing your bike\'s spark plugs isn\'t a job that usually needs doing regularly. consult the owner\'s manual for how often in should be done.</string>
     <string name="spark2">Check your workshop manual before starting, as changing the spark plugs on some bikes takes a matter of minutes, while others can take a novice several hours. Got a V4 Honda? Ring your local dealer to get the low-down on how it\'s done, as it will often involve draining the cooling system.</string>
-    <string name="spark3">Make sure you have the correct plugs for your bike; the code number on each one will differ from manufacturer to manufacturer. Check the owner\'s manual for the correct gap; you\'ll need feeler gauges to set it correctly.</string>
+    <string name="spark3">Make sure you have the correct plugs for your bike. the code number on each one will differ from manufacturer to manufacturer. Check the owner\'s manual for the correct gap. you\'ll need feeler gauges to set it correctly.</string>
     <string name="spark_desc">Spark Plug</string>
+
+    <string name="tyre1">When was the last time you checked your bike\'s tyre pressures? It should be done on a weekly basis, but many of us forget to keep an eye on one of the most vital parts of our bike\'s set-up.</string>
+    <string name="tyre2">Underinflated tyres tend to affect handling and braking as the lack of pressure means the tyre wall isn\'t firm enough to properly cope with the forces exterted on it. Overinflation can also result in a deterioration in handling, as well as a reduced contact patch with the road. This can result in a lack of grip under braking.</string>
+    <string name="tyre3">Use a quality pressure gauge to accurately check your bike\'s tyre pressures. Consult the owner\'s manual for the correct pressure. Remember, your tyres may need more pressure if you regularly ride with a pillion passenger. Always check your pressures when they\'re cold.</string>
+    <string name="tyre_desc">Tyre Pressure</string>
+
+    <string name="chain1">Incorrect chain tension can result in premature sprocket and gearbox wear, unsmooth gearshifts, snatchy transmission, hamper your bike\'s rear suspension travel and reduce the life of your bike\'s drivechain.</string>
+    <string name="chain2">Check your workshop manual for how to adjust your bike\'s chain to the correct tension. Remember to set the tension with some load on the bike (preferably with someone on it) as the chain will tighten up once a rider\'s on board.</string>
+    <string name="chain3">Refere to the owner\'s manual for the correct torque settings for each bolt - how much force to use when retightening each bolt. You\'ll need a torque wrench to do this properly.</string>
+    <string name="chain_desc">Chain</string>
+
+    <string name="oil1">With the engine warmed through, remove the bike\'s oil filler cap, place a tray under the bike and remove the sump plug. Make sure you\'re 100 sure you\'re removing the right bolt. it should be the biggest one on the sump, usually on the bottom or on the side.</string>
+    <string name="oil2">Once the oil\'s drained, remove the filter. Replace the sump plug, tighten to the correct torque setting as recommended in the owner\'s manual before spinning on a new filter. Smear the rubber filter gasket in clean oil before tightening by hand. Nip it up half a turn with the filter wrench.</string>
+    <string name="oil3">Refill the engine with the correct amount of new oil. Start the bike up, check for leaks, stop the engine Give it five minutes for the oil to drain back into the sump before checking the level again.</string>
+    <string name="oil_desc">Engine Oil</string>
+
+    <string name="brakes1">Checking and replacing your bike\'s brake pads sounds fairly intensive but is actually a straightforward job.</string>
+    <string name="brakes2">Obviously, a workshop manual, the right tools and the correct pads are a starting point. never tackle this job unless you\'re totally confident in what you\'re doing. Again, ask a knowledgeable mate to lend a hand if you\'re unsure.</string>
+    <string name="brakes3">Remove the caliper from the fork leg, take out the retaining clips, followed by then pins and springs. The pads should then come out with ease. Use an aerosol brake cleaner to smarten up the job and remove any unwanted grease.</string>
+    <string name="brakes_desc">Brakes</string>
 
 </resources>

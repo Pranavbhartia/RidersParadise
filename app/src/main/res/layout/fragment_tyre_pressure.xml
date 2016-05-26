@@ -22,12 +22,12 @@
                 android:src="@drawable/pressure"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="32dp"
-                android:contentDescription="@string/spark_desc"
+                android:contentDescription="@string/tyre_desc"
                 />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/spark1"
+                android:text="@string/tyre1"
                 android:textSize="24sp"
                 android:paddingTop="16dp"
                 android:layout_gravity="center_horizontal"
@@ -36,14 +36,14 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/spark2"
+                android:text="@string/tyre2"
                 android:textSize="24sp"
                 android:paddingTop="16dp"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/spark3"
+                android:text="@string/tyre3"
                 android:textSize="24sp"
                 android:paddingTop="16dp"/>
         </LinearLayout>
