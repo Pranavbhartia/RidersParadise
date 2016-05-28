@@ -37,11 +37,16 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new Brakes(), "Brakes");
-        adapter.addFragment(new EngineOil(), "Engine Oil");
-        adapter.addFragment(new TyrePressure(), "Tyre Pressure");
-        adapter.addFragment(new Chain(), "Chain");
-        adapter.addFragment(new SparkPlugs(), "Spark Plugs");
+        String[] brakeStrings = getResources().getStringArray(R.array.brakes);
+        String[] chainStrings = getResources().getStringArray(R.array.chain);
+        String[] oilStrings = getResources().getStringArray(R.array.engine_oil);
+        String[] tyreStrings = getResources().getStringArray(R.array.tyre_pressure);
+        String[] sparkStrings = getResources().getStringArray(R.array.spark_plug);
+        adapter.addFragment(new MainFragment().newInstance(brakeStrings[0], brakeStrings[1], brakeStrings[2], brakeStrings[3]), "Brakes");
+        adapter.addFragment(new MainFragment().newInstance(oilStrings[0], oilStrings[1], oilStrings[2], oilStrings[3]), "Engine Oil");
+        adapter.addFragment(new MainFragment().newInstance(tyreStrings[0], tyreStrings[1], tyreStrings[2], tyreStrings[3]), "Tyre Pressure");
+        adapter.addFragment(new MainFragment().newInstance(chainStrings[0], chainStrings[1], chainStrings[2], chainStrings[3]), "Chain");
+        adapter.addFragment(new MainFragment().newInstance(sparkStrings[0], sparkStrings[1], sparkStrings[2], sparkStrings[3]), "Spark Plugs");
         viewPager.setAdapter(adapter);
     }
 

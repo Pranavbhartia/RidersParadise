@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     android:fillViewport="true"
     android:paddingBottom="48dp"
-    tools:context="com.pranav.ridersparadise.EngineOil">
+    tools:context="com.pranav.ridersparadise.MainFragment">
 
     <FrameLayout
         android:layout_width="fill_parent"
@@ -17,33 +17,32 @@
             android:paddingRight="8dp"
             android:paddingBottom="16dp">
             <ImageView
-                android:layout_width="160dp"
+                android:id="@+id/image1"
+                android:layout_width="match_parent"
                 android:layout_height="160dp"
-                android:src="@drawable/engine_oil"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="32dp"
-                android:contentDescription="@string/oil_desc"
                 />
             <TextView
+                android:id="@+id/text1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/oil1"
                 android:textSize="24sp"
                 android:paddingTop="16dp"
                 android:layout_gravity="center_horizontal"
                 />
 
             <TextView
+                android:id="@+id/text2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/oil2"
                 android:textSize="24sp"
                 android:paddingTop="16dp"/>
 
             <TextView
+                android:id="@+id/text3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/oil3"
                 android:textSize="24sp"
                 android:paddingTop="16dp"/>
         </LinearLayout>
